@@ -1,0 +1,501 @@
+data from http://nipponcolors.com
+撫子, NADESHIKO
+{"index":"001","cmyk":"002043003000","rgb":"DC9FB4"}
+紅梅, KOHBAI
+{"index":"002","cmyk":"000073024000","rgb":"E16B8C"}
+蘇芳, SUOH
+{"index":"003","cmyk":"051093058010","rgb":"8E354A"}
+退紅, TAIKOH
+{"index":"004","cmyk":"000031009000","rgb":"F8C3CD"}
+一斥染, IKKONZOME
+{"index":"005","cmyk":"000048015000","rgb":"F4A7B9"}
+桑染, KUWAZOME
+{"index":"006","cmyk":"069086065035","rgb":"64363C"}
+桃, MOMO
+{"index":"007","cmyk":"000055019000","rgb":"F596AA"}
+苺, ICHIGO
+{"index":"008","cmyk":"002070038030","rgb":"B5495B"}
+薄紅, USUBENI
+{"index":"009","cmyk":"000064026000","rgb":"E87A90"}
+今様, IMAYOH
+{"index":"010","cmyk":"000075038020","rgb":"D05A6E"}
+中紅, NAKABENI
+{"index":"011","cmyk":"005083040000","rgb":"DB4D6D"}
+桜, SAKURA
+{"index":"012","cmyk":"000017006000","rgb":"FEDFE1"}
+梅鼠, UMENEZUMI
+{"index":"013","cmyk":"048059049000","rgb":"9E7A7A"}
+韓紅花, KARAKURENAI
+{"index":"014","cmyk":"015098061000","rgb":"D0104C"}
+燕脂, ENJI
+{"index":"015","cmyk":"042093068006","rgb":"9F353A"}
+紅, KURENAI
+{"index":"016","cmyk":"000100065010","rgb":"CB1B45"}
+鴇, TOKI
+{"index":"017","cmyk":"002045027000","rgb":"EEA9A9"}
+長春, CYOHSYUN
+{"index":"018","cmyk":"025070053000","rgb":"BF6766"}
+深緋, KOKIAKE
+{"index":"019","cmyk":"054075065014","rgb":"86473F"}
+桜鼠, SAKURANEZUMI
+{"index":"020","cmyk":"034046039000","rgb":"B19693"}
+甚三紅, JINZAMOMI
+{"index":"021","cmyk":"000065046000","rgb":"EB7A77"}
+小豆, AZUKI
+{"index":"022","cmyk":"048078066010","rgb":"954A45"}
+蘇芳香, SUOHKOH
+{"index":"023","cmyk":"042070058001","rgb":"A96360"}
+赤紅, AKABENI
+{"index":"024","cmyk":"015085068000","rgb":"CB4042"}
+真朱, SHINSYU
+{"index":"025","cmyk":"035085070002","rgb":"AB3B3A"}
+灰桜, HAIZAKURA
+{"index":"026","cmyk":"002012012010","rgb":"D7C4BB"}
+栗梅, KURIUME
+{"index":"027","cmyk":"050078068013","rgb":"904840"}
+海老茶, EBICHA
+{"index":"028","cmyk":"055077068027","rgb":"734338"}
+銀朱, GINSYU
+{"index":"029","cmyk":"016086070000","rgb":"C73E3A"}
+黒鳶, KUROTOBI
+{"index":"030","cmyk":"071074069041","rgb":"554236"}
+紅鳶, BENITOBI
+{"index":"031","cmyk":"045082072011","rgb":"994639"}
+曙, AKEBONO
+{"index":"032","cmyk":"000057047000","rgb":"F19483"}
+紅樺, BENIKABA
+{"index":"033","cmyk":"035087079001","rgb":"B54434"}
+水がき, MIZUGAKI
+{"index":"034","cmyk":"030054046000","rgb":"B9887D"}
+珊瑚朱, SANGOSYU
+{"index":"035","cmyk":"000065058000","rgb":"F17C67"}
+紅檜皮, BENIHIWADA
+{"index":"036","cmyk":"052074070018","rgb":"884C3A"}
+猩猩緋, SYOJYOHI
+{"index":"037","cmyk":"000089079000","rgb":"E83015"}
+鉛丹, ENTAN
+{"index":"038","cmyk":"000072063007","rgb":"D75455"}
+芝翫茶, SHIKANCHA
+{"index":"039","cmyk":"037072068000","rgb":"B55D4C"}
+檜皮, HIWADA
+{"index":"040","cmyk":"049073070018","rgb":"854836"}
+柿渋, KAKISHIBU
+{"index":"041","cmyk":"043072071004","rgb":"A35E47"}
+緋, AKE
+{"index":"042","cmyk":"017079074000","rgb":"CC543A"}
+鳶, TOBI
+{"index":"043","cmyk":"058073070026","rgb":"724832"}
+紅緋, BENIHI
+{"index":"044","cmyk":"000075074000","rgb":"F75C2F"}
+栗皮茶, KURIKAWACHA
+{"index":"045","cmyk":"058074072030","rgb":"6A4028"}
+弁柄, BENGARA
+{"index":"046","cmyk":"044074075012","rgb":"9A5034"}
+照柿, TERIGAKI
+{"index":"047","cmyk":"024072072000","rgb":"C46243"}
+江戸茶, EDOCHA
+{"index":"048","cmyk":"038070071003","rgb":"AF5F3C"}
+洗朱, ARAISYU
+{"index":"049","cmyk":"000054056000","rgb":"FB966E"}
+百塩茶, MOMOSHIOCHA
+{"index":"050","cmyk":"061070068025","rgb":"724938"}
+唐茶, KARACHA
+{"index":"051","cmyk":"038064065000","rgb":"B47157"}
+ときがら茶, TOKIGARACHA
+{"index":"052","cmyk":"010055057000","rgb":"DB8E71"}
+黄丹, OHNI
+{"index":"053","cmyk":"000072090000","rgb":"F05E1C"}
+纁, SOHI
+{"index":"054","cmyk":"000065073000","rgb":"ED784A"}
+遠州茶, ENSYUCHA
+{"index":"055","cmyk":"021064067000","rgb":"CA7853"}
+樺茶, KABACHA
+{"index":"056","cmyk":"036072076002","rgb":"B35C37"}
+焦茶, KOGECHA
+{"index":"057","cmyk":"068073071040","rgb":"563F2E"}
+赤香, AKAKOH
+{"index":"058","cmyk":"005055060000","rgb":"E3916E"}
+雀茶, SUZUMECHA
+{"index":"059","cmyk":"052069073015","rgb":"8F5A3C"}
+宍, SHISHI
+{"index":"060","cmyk":"000047050000","rgb":"F0A986"}
+宗伝唐茶, SODENKARACHA
+{"index":"061","cmyk":"048066070006","rgb":"A0674B"}
+樺, KABA
+{"index":"062","cmyk":"026070078000","rgb":"C1693C"}
+深支子, KOKIKUCHINASHI
+{"index":"063","cmyk":"000053065000","rgb":"FB9966"}
+胡桃, KURUMI
+{"index":"064","cmyk":"051056057001","rgb":"947A6D"}
+代赭, TAISYA
+{"index":"065","cmyk":"038067082003","rgb":"A36336"}
+洗柿, ARAIGAKI
+{"index":"066","cmyk":"000053067000","rgb":"E79460"}
+黄櫨染, KOHROZEN
+{"index":"067","cmyk":"055068078023","rgb":"7D532C"}
+赤朽葉, AKAKUCHIBA
+{"index":"068","cmyk":"005052070014","rgb":"C78550"}
+礪茶, TONOCHA
+{"index":"069","cmyk":"048066079007","rgb":"985F2A"}
+赤白橡, AKASHIROTSURUBAMI
+{"index":"070","cmyk":"006042055000","rgb":"E1A679"}
+煎茶, SENCHA
+{"index":"071","cmyk":"055066075014","rgb":"855B32"}
+萱草, KANZO
+{"index":"072","cmyk":"000049072000","rgb":"FC9F4D"}
+洒落柿, SHAREGAKI
+{"index":"073","cmyk":"000036053000","rgb":"FFBA84"}
+紅鬱金, BENIUKON
+{"index":"074","cmyk":"000052080000","rgb":"E98B2A"}
+梅染, UMEZOME
+{"index":"075","cmyk":"003045062000","rgb":"E9A368"}
+枇杷茶, BIWACHA
+{"index":"076","cmyk":"035058075000","rgb":"B17844"}
+丁子茶, CHOJICHA
+{"index":"077","cmyk":"050061076009","rgb":"96632E"}
+憲法染, KENPOHZOME
+{"index":"078","cmyk":"076071073047","rgb":"43341B"}
+琥珀, KOHAKU
+{"index":"079","cmyk":"020058085000","rgb":"CA7A2C"}
+薄柿, USUGAKI
+{"index":"080","cmyk":"000034052000","rgb":"ECB88A"}
+伽羅, KYARA
+{"index":"081","cmyk":"058062072016","rgb":"78552B"}
+丁子染, CHOJIZOME
+{"index":"082","cmyk":"036057079000","rgb":"B07736"}
+柴染, FUSHIZOME
+{"index":"083","cmyk":"050056071005","rgb":"967249"}
+朽葉, KUCHIBA
+{"index":"084","cmyk":"007049080000","rgb":"E2943B"}
+金茶, KINCHA
+{"index":"085","cmyk":"020056089000","rgb":"C7802D"}
+狐, KITSUNE
+{"index":"086","cmyk":"046057080004","rgb":"9B6E23"}
+煤竹, SUSUTAKE
+{"index":"087","cmyk":"062063073021","rgb":"6E552F"}
+薄香, USUKOH
+{"index":"088","cmyk":"000034060000","rgb":"EBB471"}
+砥粉, TONOKO
+{"index":"089","cmyk":"005020038015","rgb":"D7B98E"}
+銀煤竹, GINSUSUTAKE
+{"index":"090","cmyk":"054058076010","rgb":"82663A"}
+黄土, OHDO
+{"index":"091","cmyk":"031045066000","rgb":"B68E55"}
+白茶, SHIRACHA
+{"index":"092","cmyk":"032040057000","rgb":"BC9F77"}
+媚茶, KOBICHA
+{"index":"093","cmyk":"058059078014","rgb":"876633"}
+黄唐茶, KIGARACHA
+{"index":"094","cmyk":"028048083000","rgb":"C18A26"}
+山吹, YAMABUKI
+{"index":"095","cmyk":"000037087000","rgb":"FFB11B"}
+山吹茶, YAMABUKICHA
+{"index":"096","cmyk":"017044089000","rgb":"D19826"}
+櫨染, HAJIZOME
+{"index":"097","cmyk":"008040083000","rgb":"DDA52D"}
+桑茶, KUWACHA
+{"index":"098","cmyk":"025044083000","rgb":"C99833"}
+玉子, TAMAGO
+{"index":"099","cmyk":"000029074000","rgb":"F9BF45"}
+白橡, SHIROTSURUBAMI
+{"index":"100","cmyk":"016030060000","rgb":"DCB879"}
+黄橡, KITSURUBAMI
+{"index":"101","cmyk":"031044077000","rgb":"BA9132"}
+玉蜀黍, TAMAMOROKOSHI
+{"index":"102","cmyk":"004029071000","rgb":"E8B647"}
+花葉, HANABA
+{"index":"103","cmyk":"000025072000","rgb":"F7C242"}
+生壁, NAMAKABE
+{"index":"104","cmyk":"058056070008","rgb":"7D6C46"}
+鳥の子, TORINOKO
+{"index":"105","cmyk":"014020039000","rgb":"DAC9A6"}
+浅黄, USUKI
+{"index":"106","cmyk":"000017053000","rgb":"FAD689"}
+黄朽葉, KIKUCHIBA
+{"index":"107","cmyk":"014033075000","rgb":"D9AB42"}
+梔子, KUCHINASHI
+{"index":"108","cmyk":"000025070000","rgb":"F6C555"}
+籐黄, TOHOH
+{"index":"109","cmyk":"000025086000","rgb":"FFC408"}
+鬱金, UKON
+{"index":"110","cmyk":"003029088000","rgb":"EFBB24"}
+芥子, KARASHI
+{"index":"111","cmyk":"000016070027","rgb":"CAAD5F"}
+肥後煤竹, HIGOSUSUTAKE
+{"index":"112","cmyk":"055053082007","rgb":"8D742A"}
+利休白茶, RIKYUSHIRACHA
+{"index":"113","cmyk":"036033054000","rgb":"B4A582"}
+灰汁, AKU
+{"index":"114","cmyk":"058051060001","rgb":"877F6C"}
+利休茶, RIKYUCHA
+{"index":"115","cmyk":"057050070003","rgb":"897D55"}
+路考茶, ROKOHCHA
+{"index":"116","cmyk":"064057073010","rgb":"74673E"}
+菜種油, NATANEYU
+{"index":"117","cmyk":"046042084000","rgb":"A28C37"}
+鶯茶, UGUISUCHA
+{"index":"118","cmyk":"064056078016","rgb":"6C6024"}
+黄海松茶, KIMIRUCHA
+{"index":"119","cmyk":"057048078006","rgb":"867835"}
+海松茶, MIRUCHA
+{"index":"120","cmyk":"068059075022","rgb":"62592C"}
+刈安, KARIYASU
+{"index":"121","cmyk":"007015074000","rgb":"E9CD4C"}
+菜の花, NANOHANA
+{"index":"122","cmyk":"002011075000","rgb":"F7D94C"}
+黄蘗, KIHADA
+{"index":"123","cmyk":"000005073000","rgb":"FBE251"}
+蒸栗, MUSHIKURI
+{"index":"124","cmyk":"016015052000","rgb":"D9CD90"}
+青朽葉, AOKUCHIBA
+{"index":"125","cmyk":"038031076000","rgb":"ADA142"}
+女郎花, OMINAESHI
+{"index":"126","cmyk":"016009082000","rgb":"DDD23B"}
+鶸茶, HIWACHA
+{"index":"127","cmyk":"045033076000","rgb":"A5A051"}
+鶸, HIWA
+{"index":"128","cmyk":"032015085000","rgb":"BEC23F"}
+鶯, UGUISU
+{"index":"129","cmyk":"067054084014","rgb":"6C6A2D"}
+柳茶, YANAGICHA
+{"index":"130","cmyk":"052037073000","rgb":"939650"}
+苔, KOKE
+{"index":"131","cmyk":"062041083002","rgb":"838A2D"}
+麹塵, KIKUJIN
+{"index":"132","cmyk":"037023063000","rgb":"B1B479"}
+璃寛茶, RIKANCHA
+{"index":"133","cmyk":"072058073019","rgb":"616138"}
+藍媚茶, AIKOBICHA
+{"index":"134","cmyk":"076061074030","rgb":"4B4E2A"}
+海松, MIRU
+{"index":"135","cmyk":"072056078020","rgb":"5B622E"}
+千歳茶, SENSAICHA
+{"index":"136","cmyk":"077061070030","rgb":"4D5139"}
+梅幸茶, BAIKOCHA
+{"index":"137","cmyk":"057038063000","rgb":"89916B"}
+鶸萌黄, HIWAMOEGI
+{"index":"138","cmyk":"056013077000","rgb":"90B44B"}
+柳染, YANAGIZOME
+{"index":"139","cmyk":"056024065000","rgb":"91AD70"}
+裏柳, URAYANAGI
+{"index":"140","cmyk":"036010045000","rgb":"B5CAA0"}
+岩井茶, IWAICHA
+{"index":"141","cmyk":"069052063007","rgb":"646A58"}
+萌黄, MOEGI
+{"index":"142","cmyk":"070023086000","rgb":"7BA23F"}
+苗, NAE
+{"index":"143","cmyk":"057001072000","rgb":"86C166"}
+柳煤竹, YANAGISUSUTAKE
+{"index":"144","cmyk":"076057070017","rgb":"4A593D"}
+松葉, MATSUBA
+{"index":"145","cmyk":"080055079020","rgb":"42602D"}
+青丹, AONI
+{"index":"146","cmyk":"076051075012","rgb":"516E41"}
+薄青, USUAO
+{"index":"147","cmyk":"057019052000","rgb":"91B493"}
+柳鼠, YANAGINEZUMI
+{"index":"148","cmyk":"061041053000","rgb":"808F7C"}
+常磐, TOKIWA
+{"index":"149","cmyk":"082000078040","rgb":"1B813E"}
+若竹, WAKATAKE
+{"index":"150","cmyk":"068013059000","rgb":"5DAC81"}
+千歳緑, CHITOSEMIDORI
+{"index":"151","cmyk":"083055069022","rgb":"36563C"}
+緑, MIDORI
+{"index":"152","cmyk":"086036070000","rgb":"227D51"}
+白緑, BYAKUROKU
+{"index":"153","cmyk":"044000037000","rgb":"A8D8B9"}
+老竹, OITAKE
+{"index":"154","cmyk":"071046060002","rgb":"6A8372"}
+木賊, TOKUSA
+{"index":"155","cmyk":"086046070008","rgb":"2D6D4B"}
+御納戸茶, ONANDOCHA
+{"index":"156","cmyk":"081060068022","rgb":"465D4C"}
+緑青, ROKUSYOH
+{"index":"157","cmyk":"083023063000","rgb":"24936E"}
+錆青磁, SABISEIJI
+{"index":"158","cmyk":"058030045000","rgb":"86A697"}
+青竹, AOTAKE
+{"index":"159","cmyk":"092028067000","rgb":"00896C"}
+ビロード, VELUDO
+{"index":"160","cmyk":"093054071020","rgb":"096148"}
+虫襖, MUSHIAO
+{"index":"161","cmyk":"089055067017","rgb":"20604F"}
+藍海松茶, AIMIRUCHA
+{"index":"162","cmyk":"089060067030","rgb":"0F4C3A"}
+沈香茶, TONOCHA2
+{"index":"163","cmyk":"077050057004","rgb":"4F726C"}
+青緑, AOMIDORI
+{"index":"164","cmyk":"088000053000","rgb":"00AA90"}
+青磁, SEIJI
+{"index":"165","cmyk":"061014034000","rgb":"69B0AC"}
+鉄, TETSU
+{"index":"166","cmyk":"090063066030","rgb":"26453D"}
+水浅葱, MIZUASAGI
+{"index":"167","cmyk":"068010033000","rgb":"66BAB7"}
+青碧, SEIHEKI
+{"index":"168","cmyk":"085035050000","rgb":"268785"}
+錆鉄御納戸, SABITETSUONANDO
+{"index":"169","cmyk":"083059060013","rgb":"405B55"}
+高麗納戸, KORAINANDO
+{"index":"170","cmyk":"088058061015","rgb":"305A56"}
+白群, BYAKUGUN
+{"index":"171","cmyk":"052000020000","rgb":"78C2C4"}
+御召茶, OMESHICHA
+{"index":"172","cmyk":"087054054005","rgb":"376B6D"}
+瓶覗, KAMENOZOKI
+{"index":"173","cmyk":"042000011000","rgb":"A5DEE4"}
+深川鼠, FUKAGAWANEZUMI
+{"index":"174","cmyk":"063038040000","rgb":"77969A"}
+錆浅葱, SABIASAGI
+{"index":"175","cmyk":"066030034000","rgb":"6699A1"}
+水, MIZU
+{"index":"176","cmyk":"055006017000","rgb":"81C7D4"}
+浅葱, ASAGI
+{"index":"177","cmyk":"082018027000","rgb":"33A6B8"}
+御納戸, ONANDO
+{"index":"178","cmyk":"092065062025","rgb":"0C4842"}
+藍, AI
+{"index":"179","cmyk":"095063056017","rgb":"0D5661"}
+新橋, SHINBASHI
+{"index":"180","cmyk":"095031030000","rgb":"0089A7"}
+錆御納戸, SABIONANDO
+{"index":"181","cmyk":"087056052006","rgb":"336774"}
+鉄御納戸, TETSUONANDO
+{"index":"182","cmyk":"090063059021","rgb":"255359"}
+花浅葱, HANAASAGI
+{"index":"183","cmyk":"090032023000","rgb":"1E88A8"}
+藍鼠, AINEZUMI
+{"index":"184","cmyk":"078057052007","rgb":"566C73"}
+舛花, MASUHANA
+{"index":"185","cmyk":"078048042000","rgb":"577C8A"}
+空, SORA
+{"index":"186","cmyk":"072013007000","rgb":"58B2DC"}
+熨斗目花, NOSHIMEHANA
+{"index":"187","cmyk":"092060047004","rgb":"2B5F75"}
+千草, CHIGUSA
+{"index":"188","cmyk":"083031017000","rgb":"3A8FB7"}
+御召御納戸, OMESHIONANDO
+{"index":"189","cmyk":"090063051007","rgb":"2E5C6E"}
+縹, HANADA
+{"index":"190","cmyk":"100060041002","rgb":"006284"}
+勿忘草, WASURENAGUSA
+{"index":"191","cmyk":"052010000000","rgb":"7DB9DE"}
+群青, GUNJYO
+{"index":"192","cmyk":"067021000000","rgb":"51A8DD"}
+露草, TSUYUKUSA
+{"index":"193","cmyk":"073020000000","rgb":"2EA9DF"}
+黒橡, KUROTSURUBAMI
+{"index":"194","cmyk":"092078064048","rgb":"0B1013"}
+紺, KON
+{"index":"195","cmyk":"100085050024","rgb":"0F2540"}
+褐, KACHI
+{"index":"196","cmyk":"100086060045","rgb":"08192D"}
+瑠璃, RURI
+{"index":"197","cmyk":"097065000000","rgb":"005CAF"}
+瑠璃紺, RURIKON
+{"index":"198","cmyk":"100085039004","rgb":"0B346E"}
+紅碧, BENIMIDORI
+{"index":"199","cmyk":"064044000000","rgb":"7B90D2"}
+藤鼠, FUJINEZUMI
+{"index":"200","cmyk":"069056017000","rgb":"6E75A4"}
+鉄紺, TETSUKON
+{"index":"201","cmyk":"080065000077","rgb":"261E47"}
+紺青, KONJYO
+{"index":"202","cmyk":"100085015000","rgb":"113285"}
+紅掛花, BENIKAKEHANA
+{"index":"203","cmyk":"082070014000","rgb":"4E4F97"}
+紺桔梗, KONKIKYO
+{"index":"204","cmyk":"100090042012","rgb":"211E55"}
+藤, FUJI
+{"index":"205","cmyk":"058052000000","rgb":"8B81C3"}
+二藍, FUTAAI
+{"index":"206","cmyk":"072067021000","rgb":"70649A"}
+楝, OUCHI
+{"index":"207","cmyk":"042042000000","rgb":"9B90C2"}
+藤紫, FUJIMURASAKI
+{"index":"208","cmyk":"058060000000","rgb":"8A6BBE"}
+桔梗, KIKYO
+{"index":"209","cmyk":"075075010000","rgb":"6A4C9C"}
+紫苑, SHION
+{"index":"210","cmyk":"055058001000","rgb":"8F77B5"}
+滅紫, MESSHI
+{"index":"211","cmyk":"082080048015","rgb":"533D5B"}
+薄, USU
+{"index":"212","cmyk":"043051000000","rgb":"B28FCE"}
+半, HASHITA
+{"index":"213","cmyk":"055063000000","rgb":"986DB2"}
+江戸紫, EDOMURASAKI
+{"index":"214","cmyk":"060074000014","rgb":"77428D"}
+紫紺, SHIKON
+{"index":"215","cmyk":"088084060045","rgb":"3C2F41"}
+深紫, KOKIMURASAKI
+{"index":"216","cmyk":"090093043016","rgb":"4A225D"}
+菫, SUMIRE
+{"index":"217","cmyk":"074083022000","rgb":"66327C"}
+紫, MURASAKI
+{"index":"218","cmyk":"081087040007","rgb":"592C63"}
+菖蒲, AYAME
+{"index":"219","cmyk":"071087014000","rgb":"6F3381"}
+藤煤竹, FUJISUSUTAKE
+{"index":"220","cmyk":"075070057025","rgb":"574C57"}
+紅藤, BENIFUJI
+{"index":"221","cmyk":"038060000000","rgb":"B481BB"}
+黒紅, KUROBENI
+{"index":"222","cmyk":"086085064050","rgb":"3F2B36"}
+茄子紺, NASUKON
+{"index":"223","cmyk":"040073010073","rgb":"572A3F"}
+葡萄鼠, BUDOHNEZUMI
+{"index":"224","cmyk":"073077054017","rgb":"5E3D50"}
+鳩羽鼠, HATOBANEZUMI
+{"index":"225","cmyk":"068064051006","rgb":"72636E"}
+杜若, KAKITSUBATA
+{"index":"226","cmyk":"077092048021","rgb":"622954"}
+蒲葡, EBIZOME
+{"index":"227","cmyk":"071089048012","rgb":"6D2E5B"}
+牡丹, BOTAN
+{"index":"228","cmyk":"025091008000","rgb":"C1328E"}
+梅紫, UMEMURASAKI
+{"index":"229","cmyk":"045080037000","rgb":"A8497A"}
+似紫, NISEMURASAKI
+{"index":"230","cmyk":"075084062042","rgb":"562E37"}
+躑躅, TSUTSUJI
+{"index":"231","cmyk":"000080003000","rgb":"E03C8A"}
+紫鳶, MURASAKITOBI
+{"index":"232","cmyk":"070078061030","rgb":"60373E"}
+白練, SHIRONERI
+{"index":"233","cmyk":"000003011000","rgb":"FCFAF2"}
+胡粉, GOFUN
+{"index":"234","cmyk":"000000002000","rgb":"FFFFFB"}
+白鼠, SHIRONEZUMI
+{"index":"235","cmyk":"031023028000","rgb":"BDC0BA"}
+銀鼠, GINNEZUMI
+{"index":"236","cmyk":"052039036000","rgb":"91989F"}
+鉛, NAMARI
+{"index":"237","cmyk":"008000000073","rgb":"787878"}
+灰, HAI
+{"index":"238","cmyk":"000000000070","rgb":"828282"}
+素鼠, SUNEZUMI
+{"index":"239","cmyk":"065053053000","rgb":"787D7B"}
+利休鼠, RIKYUNEZUMI
+{"index":"240","cmyk":"066050054001","rgb":"707C74"}
+鈍, NIBI
+{"index":"241","cmyk":"005000000080","rgb":"656765"}
+青鈍, AONIBI
+{"index":"242","cmyk":"078063062020","rgb":"535953"}
+溝鼠, DOBUNEZUMI
+{"index":"243","cmyk":"078065065030","rgb":"4F4F48"}
+紅消鼠, BENIKESHINEZUMI
+{"index":"244","cmyk":"073069063030","rgb":"52433D"}
+藍墨茶, AISUMICHA
+{"index":"245","cmyk":"086072068047","rgb":"373C38"}
+檳榔子染, BINROJIZOME
+{"index":"246","cmyk":"079072072050","rgb":"3A3226"}
+消炭, KESHIZUMI
+{"index":"247","cmyk":"000000000088","rgb":"434343"}
+墨, SUMI
+{"index":"248","cmyk":"092078073066","rgb":"1C1C1C"}
+黒, KURO
+{"index":"249","cmyk":"091084074071","rgb":"080808"}
+呂, RO
+{"index":"250","cmyk":"000000000100","rgb":"0C0C0C"}
